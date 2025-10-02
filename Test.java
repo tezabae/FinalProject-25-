@@ -3,6 +3,8 @@ public class Test {
         System.out.println("Hi, ini baris kode pertama!(user1)");
         System.out.println("Hi, ini baris kode kedua!(user2)");
         System.out.println("Hi, ini baris kode ketiga!(user3)");
-    }
+        System.out.println("sbfekfwipfehsihdkfsHi, ini baris kode pertama  !"); 
+         
+    }  
     
 }
